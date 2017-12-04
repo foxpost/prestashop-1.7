@@ -1,6 +1,3 @@
-
-<script type="text/javascript" src="http://dev/presta1724/js/jquery/jquery-1.11.0.min.js" ></script>
-
 <div id='fox_div' style='display:;'>
     <h3>Foxpost Csomagautomata kiválasztása</h3>
     Kérem válasszon egy csomagautomatát, ahol szeretné átvenni a csomagot!<br />
